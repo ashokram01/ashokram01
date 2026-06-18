@@ -33,12 +33,12 @@
 
 # 🚀 Featured Security Projects:
 
-* 🛡️ **[CloudShield: AWS WAF SQLi Mitigation](https://github.com/ashokram01/CloudShield)** 
+* 🛡️ **[CloudShield: AWS WAF SQLi Mitigation](https://github.com/ashokram01/AWS-CloudShield-WAF-Mitigation)** 
   * Engineered a **Defense-in-Depth** architecture within a custom **VPC** to neutralize SQL Injection threats. 
   * Implemented **AWS WAF** rules to secure API Gateway and **Lambda** backend processing. 
   * Verified 100% mitigation with **HTTP 403 Forbidden** validation using cURL.
 
-* 🔍 **[AWS Cloud-Sentinel: Automated Threat Detection](https://github.com/ashokram01/AWS-Cloud-Sentinel)** 
+* 🔍 **[AWS Cloud-Sentinel: Automated Threat Detection](https://github.com/ashokram01/AWS-Cloud-Sentinel-Automated-Threat-Detection-Engine)** 
   * Developed a **Python-based engine** (Boto3) to automate auditing of CloudTrail logs stored in **S3**. 
   * Programmatically detects unauthorized **EC2 Security Group** changes and **IAM** privilege escalations. 
   * Reduces incident response time from hours to seconds through real-time log analysis.
